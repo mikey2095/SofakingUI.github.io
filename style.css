@@ -1,0 +1,5895 @@
+:root {
+	--web-view-ids: iPhone_11_Pro__X_-_4,iPhone_11_Pro__X_-_1,iPhone_11_Pro__X_-_15,iPhone_11_Pro__X_-_2,iPhone_11_Pro__X_-_3,iPhone_11_Pro__X_-_5,iPhone_11_Pro__X_-_8,iPhone_11_Pro__X_-_7,iPhone_11_Pro__X_-_9,iPhone_11_Pro__X_-_10,iPhone_11_Pro__X_-_11,iPhone_11_Pro__X_-_14;
+	--web-view-name: iPhone 11 Pro / X - 4;
+	--web-view-id: iPhone_11_Pro__X_-_4;
+	--web-scale-to-fit: false;
+	--web-scale-to-fit-type: default;
+	--web-enable-scale-up: false;
+	--web-scale-on-resize: true;
+	--web-show-scale-controls: false;
+	--web-scale-on-double-click: false;
+	--web-center-horizontally: false;
+	--web-center-vertically: false;
+	--web-actual-size-on-double-click: false;
+	--web-navigate-on-keypress: false;
+	--web-refresh-for-changes: false;
+	--web-add-image-compare: false;
+	--web-show-by-media-query: false;
+	--web-application: true;
+	--web-show-navigation-controls: false;
+	--web-enable-deep-linking: true;
+	--web-is-overlay: false;
+}
+#iPhone_11_Pro__X_-_4,
+#iPhone_11_Pro__X_-_1,
+#iPhone_11_Pro__X_-_15,
+#iPhone_11_Pro__X_-_2,
+#iPhone_11_Pro__X_-_3,
+#iPhone_11_Pro__X_-_5,
+#iPhone_11_Pro__X_-_8,
+#iPhone_11_Pro__X_-_7,
+#iPhone_11_Pro__X_-_9,
+#iPhone_11_Pro__X_-_10,
+#iPhone_11_Pro__X_-_11,
+#iPhone_11_Pro__X_-_14 {
+	display: none;
+}
+@media (min-width: 0px) {
+	.mediaViewInfo {
+		--web-view-name: iPhone 11 Pro / X - 4;
+		--web-view-id: iPhone_11_Pro__X_-_4;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#iPhone_11_Pro__X_-_4 {
+		position: absolute;
+		display: block;
+		width: 375px;
+		height: 1944px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: iPhone 11 Pro / X - 4;
+		--web-view-id: iPhone_11_Pro__X_-_4;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	#rays_1 {
+		position: absolute;
+		width: 375px;
+		height: 413px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Asset_1_2 {
+		position: absolute;
+		width: 145px;
+		height: 95px;
+		left: 32px;
+		top: 34px;
+		overflow: visible;
+		transition: all 0s linear;
+		--web-animation: fadein 0s linear;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_15;
+		cursor: pointer;
+	}
+	#Rectangle_20 {
+		fill: rgba(81,62,154,1);
+	}
+	.Rectangle_20 {
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 1723px;
+		left: 0px;
+		top: 150px;
+	}
+	#Group_10 {
+		position: absolute;
+		width: 19px;
+		height: 12px;
+		left: 323px;
+		top: 54px;
+		overflow: visible;
+		transition: all 0s linear;
+		--web-animation: fadein 0s linear;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_10;
+		cursor: pointer;
+	}
+	#Group_1 {
+		position: absolute;
+		width: 19px;
+		height: 12px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Line_1 {
+		fill: transparent;
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_1 {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_2 {
+		fill: transparent;
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_2 {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 6px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_3 {
+		fill: transparent;
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_3 {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 12px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Sofaking_Brand {
+		left: 33px;
+		top: 203px;
+		position: absolute;
+		overflow: visible;
+		width: 264px;
+		height: 26px;
+		text-align: left;
+		font-family: Gotham;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(250,167,30,1);
+	}
+	#sofaking_brownies {
+		position: absolute;
+		width: 94px;
+		height: 100px;
+		left: 187px;
+		top: 449px;
+		overflow: visible;
+	}
+	#sofaking_fruity_bar {
+		position: absolute;
+		width: 93px;
+		height: 100px;
+		left: 94px;
+		top: 449px;
+		overflow: visible;
+	}
+	#sofaking_mellow_nugz {
+		position: absolute;
+		width: 94px;
+		height: 100px;
+		left: 0px;
+		top: 449px;
+		overflow: visible;
+		--web-animation: fadein 0.2s ease-in;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_14;
+		cursor: pointer;
+	}
+	#sofaking_reversed_smores {
+		position: absolute;
+		width: 94px;
+		height: 100px;
+		left: 281px;
+		top: 449px;
+		overflow: visible;
+	}
+	#n_00mg_250mg_500mg {
+		left: 33px;
+		top: 1114px;
+		position: absolute;
+		overflow: visible;
+		width: 310px;
+		height: 42px;
+		line-height: 51px;
+		margin-top: -12.5px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 26px;
+		color: rgba(255,255,255,1);
+	}
+	#Dosage {
+		left: 33px;
+		top: 1091px;
+		position: absolute;
+		overflow: visible;
+		width: 191px;
+		height: 8px;
+		text-align: left;
+		font-family: Gotham;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(250,167,30,1);
+	}
+	#Dont_see_your_dispensary_Reque {
+		left: 33px;
+		top: 1544px;
+		position: absolute;
+		overflow: visible;
+		width: 310px;
+		height: 60px;
+		line-height: 26px;
+		margin-top: -0.5px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#Why_Sofaking {
+		left: 33px;
+		top: 665px;
+		position: absolute;
+		overflow: visible;
+		width: 237px;
+		height: 25px;
+		text-align: left;
+		font-family: Gotham;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(250,167,30,1);
+	}
+	#Where_is_Sofaking {
+		left: 33px;
+		top: 1306px;
+		position: absolute;
+		overflow: visible;
+		width: 237px;
+		height: 25px;
+		text-align: left;
+		font-family: Gotham;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(250,167,30,1);
+	}
+	#Fruity_Bar_1 {
+		position: absolute;
+		width: 152px;
+		height: 180px;
+		left: 223px;
+		top: 218px;
+		overflow: visible;
+	}
+	#reversed_smore__leaf_2_1 {
+		position: absolute;
+		width: 189px;
+		height: 129px;
+		left: 17px;
+		top: 235px;
+		overflow: visible;
+	}
+	#MellowNugz__leaf_1 {
+		position: absolute;
+		width: 308px;
+		height: 211px;
+		left: 25px;
+		top: 238px;
+		overflow: visible;
+	}
+	#Res_conse_conse_volorion_pro_d {
+		left: 33px;
+		top: 678px;
+		position: absolute;
+		overflow: visible;
+		width: 311px;
+		height: 123px;
+		line-height: 18px;
+		margin-top: -2px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#n_The_Mint_Dispensary_Tempe__T {
+		left: 49px;
+		top: 1331px;
+		position: absolute;
+		overflow: visible;
+		width: 294px;
+		height: 203px;
+		line-height: 23px;
+		margin-top: -3px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 17px;
+		color: rgba(28,160,255,1);
+	}
+	#sofaking_assorted_cut_2 {
+		position: absolute;
+		width: 262.107px;
+		height: 245.698px;
+		left: -1.178px;
+		top: 802.19px;
+		overflow: visible;
+	}
+	#image_2 {
+		position: absolute;
+		width: 112px;
+		height: 34px;
+		left: 230px;
+		top: 995px;
+		overflow: visible;
+	}
+	#Rectangle_20_bg {
+		fill: rgba(81,62,154,1);
+	}
+	.Rectangle_20_bg {
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 203px;
+		left: 0px;
+		top: 1670px;
+	}
+	#Rectangle_21 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_21 {
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		height: 18px;
+		left: 201px;
+		top: 1707px;
+	}
+	#Rectangle_22 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_22 {
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		height: 18px;
+		left: 201px;
+		top: 1737px;
+	}
+	#Rectangle_23 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_23 {
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		height: 67px;
+		left: 201px;
+		top: 1766px;
+	}
+	#Email_bs {
+		left: 204px;
+		top: 1709px;
+		position: absolute;
+		overflow: visible;
+		width: 38px;
+		height: 16px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#Subject {
+		left: 204px;
+		top: 1740px;
+		position: absolute;
+		overflow: visible;
+		width: 47px;
+		height: 16px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#Message {
+		left: 204px;
+		top: 1769px;
+		position: absolute;
+		overflow: visible;
+		width: 55px;
+		height: 16px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#Want_to_learn_more_or_have_que {
+		left: 32px;
+		top: 1703px;
+		position: absolute;
+		overflow: visible;
+		width: 146px;
+		height: 63px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(255,255,255,1);
+	}
+	#Any_questions_regarding_produc {
+		left: 32px;
+		top: 1779px;
+		position: absolute;
+		overflow: hidden;
+		width: 146px;
+		height: 62px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(255,255,255,1);
+	}
+	#subscribebutton_4 {
+		position: absolute;
+		width: 47px;
+		height: 18px;
+		left: 201px;
+		top: 1842px;
+		overflow: visible;
+	}
+	#Rectangle_24 {
+		fill: rgba(81,62,154,1);
+	}
+	.Rectangle_24 {
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 238px;
+		left: 0px;
+		top: 1670px;
+	}
+	#Rectangle_25 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_25 {
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		height: 18px;
+		left: 201px;
+		top: 1707px;
+	}
+	#Email_bs {
+		left: 204px;
+		top: 1709px;
+		position: absolute;
+		overflow: visible;
+		width: 38px;
+		height: 16px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#rays_6 {
+		position: absolute;
+		width: 375px;
+		height: 73px;
+		left: 0px;
+		top: 1871px;
+		overflow: visible;
+	}
+	#Group_9 {
+		position: absolute;
+		width: 86px;
+		height: 22.872px;
+		left: 145px;
+		top: 1897px;
+		overflow: visible;
+	}
+	#Vector {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector {
+		overflow: visible;
+		position: absolute;
+		width: 22.872px;
+		height: 22.872px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Vector_bw {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector_bw {
+		overflow: visible;
+		position: absolute;
+		width: 22.872px;
+		height: 22.872px;
+		left: 31.106px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Vector_bx {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector_bx {
+		overflow: visible;
+		position: absolute;
+		width: 22.872px;
+		height: 22.872px;
+		left: 63.128px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#rays_7 {
+		position: absolute;
+		width: 375px;
+		height: 73px;
+		left: 0px;
+		top: 1871px;
+		overflow: visible;
+	}
+	#Group_10_bz {
+		position: absolute;
+		width: 86px;
+		height: 22.872px;
+		left: 145px;
+		top: 1897px;
+		overflow: visible;
+	}
+	#Vector_b {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector_b {
+		overflow: visible;
+		position: absolute;
+		width: 22.872px;
+		height: 22.872px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Vector_ca {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector_ca {
+		overflow: visible;
+		position: absolute;
+		width: 22.872px;
+		height: 22.872px;
+		left: 31.106px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Vector_cb {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector_cb {
+		overflow: visible;
+		position: absolute;
+		width: 22.872px;
+		height: 22.872px;
+		left: 63.128px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#bitemebrownies {
+		position: absolute;
+		width: 54px;
+		height: 46px;
+		left: 207px;
+		top: 568px;
+		overflow: visible;
+	}
+	#fruitybar {
+		position: absolute;
+		width: 68px;
+		height: 33px;
+		left: 107px;
+		top: 576px;
+		overflow: visible;
+	}
+	#mellownugz {
+		position: absolute;
+		width: 69px;
+		height: 34px;
+		left: 12px;
+		top: 573px;
+		overflow: visible;
+	}
+	#reversedsmoreslogo {
+		position: absolute;
+		width: 59px;
+		height: 29.032px;
+		left: 296px;
+		top: 576px;
+		overflow: visible;
+	}
+	#Group_3 {
+		position: absolute;
+		width: 129px;
+		height: 44px;
+		left: 33px;
+		top: 1615px;
+		overflow: visible;
+	}
+	#enterbttn {
+		position: absolute;
+		width: 129px;
+		height: 44px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_35 {
+		fill: rgba(192,30,102,1);
+	}
+	.Rectangle_35 {
+		position: absolute;
+		overflow: visible;
+		width: 97px;
+		height: 25px;
+		left: 18px;
+		top: 7px;
+	}
+	#Request {
+		left: 34px;
+		top: 10px;
+		position: absolute;
+		overflow: visible;
+		width: 62px;
+		height: 20px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_1_cb {
+		position: absolute;
+		width: 146px;
+		height: 134px;
+		left: 32px;
+		top: 1701px;
+		overflow: visible;
+	}
+	#Any_questions_regarding_produc_cc {
+		left: 1px;
+		top: 78px;
+		position: absolute;
+		overflow: hidden;
+		width: 146px;
+		height: 56px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(255,255,255,1);
+	}
+	#Want_to_learn_more_or_have_que_cd {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 146px;
+		height: 57px;
+		line-height: 16px;
+		margin-top: -1px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#Rectangle_38 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_38 {
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		height: 71px;
+		left: 201px;
+		top: 1737px;
+	}
+	#Message_cf {
+		left: 204px;
+		top: 1739px;
+		position: absolute;
+		overflow: visible;
+		width: 55px;
+		height: 15px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#enterbttn_1 {
+		position: absolute;
+		width: 84px;
+		height: 28px;
+		left: 201px;
+		top: 1819px;
+		overflow: visible;
+	}
+	#Dosages_vary_per_baked_good_No {
+		left: 33px;
+		top: 1162px;
+		position: absolute;
+		overflow: visible;
+		width: 311px;
+		height: 50px;
+		line-height: 16px;
+		margin-top: -1px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+}
+@media (min-width: 0px) {
+	.mediaViewInfo {
+		--web-view-name: iPhone 11 Pro / X - 1;
+		--web-view-id: iPhone_11_Pro__X_-_1;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#iPhone_11_Pro__X_-_1 {
+		position: absolute;
+		display: block;
+		width: 375px;
+		height: 1416px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: iPhone 11 Pro / X - 1;
+		--web-view-id: iPhone_11_Pro__X_-_1;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	#rays_3 {
+		position: absolute;
+		width: 375px;
+		height: 73px;
+		left: 0px;
+		top: 1347px;
+		overflow: visible;
+	}
+	#rays_1_cl {
+		position: absolute;
+		width: 375px;
+		height: 413px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_19 {
+		fill: rgba(81,62,154,1);
+	}
+	.Rectangle_19 {
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 643px;
+		left: 0px;
+		top: 406px;
+	}
+	#Res_conse_conse_volorion_pro_d_cn {
+		left: 32px;
+		top: 475px;
+		position: absolute;
+		overflow: visible;
+		width: 311px;
+		height: 123px;
+		line-height: 18px;
+		margin-top: -2px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#Mission_Statement {
+		left: 32px;
+		top: 462px;
+		position: absolute;
+		overflow: visible;
+		width: 302px;
+		height: 44px;
+		text-align: left;
+		font-family: Gotham;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(250,167,30,1);
+	}
+	#Group_8 {
+		position: absolute;
+		width: 19px;
+		height: 12px;
+		left: 323px;
+		top: 54px;
+		overflow: visible;
+		transition: all 0s linear;
+		--web-animation: fadein 0s linear;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_3;
+		cursor: pointer;
+	}
+	#Group_1_cq {
+		position: absolute;
+		width: 19px;
+		height: 12px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Line_1_cr {
+		fill: transparent;
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_1_cr {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_2_cs {
+		fill: transparent;
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_2_cs {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 6px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_3_ct {
+		fill: transparent;
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_3_ct {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 12px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Rectangle_5 {
+		fill: rgba(81,62,154,1);
+	}
+	.Rectangle_5 {
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 183px;
+		left: 0px;
+		top: 1164px;
+	}
+	#Rectangle_6 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_6 {
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		height: 16px;
+		left: 201px;
+		top: 1198px;
+	}
+	#Rectangle_7 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_7 {
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		height: 16px;
+		left: 201px;
+		top: 1225px;
+	}
+	#Rectangle_8 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_8 {
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		height: 60px;
+		left: 201px;
+		top: 1251px;
+	}
+	#Email_dm {
+		left: 204px;
+		top: 1199px;
+		position: absolute;
+		overflow: visible;
+		width: 38px;
+		height: 15px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#Subject_cz {
+		left: 204px;
+		top: 1227px;
+		position: absolute;
+		overflow: visible;
+		width: 47px;
+		height: 15px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#Message_c {
+		left: 204px;
+		top: 1253px;
+		position: absolute;
+		overflow: visible;
+		width: 55px;
+		height: 15px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#Want_to_learn_more_or_have_que_c {
+		left: 32px;
+		top: 1194px;
+		position: absolute;
+		overflow: visible;
+		width: 146px;
+		height: 57px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(255,255,255,1);
+	}
+	#Any_questions_regarding_produc_c {
+		left: 32px;
+		top: 1262px;
+		position: absolute;
+		overflow: hidden;
+		width: 146px;
+		height: 56px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(255,255,255,1);
+	}
+	#sofaking_assorted_cut_1 {
+		position: absolute;
+		width: 304.594px;
+		height: 285.511px;
+		left: 40.194px;
+		top: 139.667px;
+		overflow: visible;
+		transition: all 0s linear;
+		--web-animation: fadein 0s linear;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_15;
+		cursor: pointer;
+	}
+	#Rectangle_10 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_10 {
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 93px;
+		left: 0px;
+		top: 648px;
+	}
+	#MellowNugz__leaf {
+		position: absolute;
+		width: 102px;
+		height: 86px;
+		left: 135px;
+		top: 652px;
+		overflow: visible;
+	}
+	#reversed_smore__leaf_2 {
+		position: absolute;
+		width: 114px;
+		height: 88px;
+		left: 251px;
+		top: 655px;
+		overflow: visible;
+	}
+	#bite_me_brownie__leaf_1 {
+		position: absolute;
+		width: 113px;
+		height: 71px;
+		left: 8px;
+		top: 661px;
+		overflow: visible;
+	}
+	#Res_conse_conse_volorion_pro_d_c {
+		left: 32px;
+		top: 817px;
+		position: absolute;
+		overflow: visible;
+		width: 311px;
+		height: 146px;
+		line-height: 18px;
+		margin-top: -2px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#About_Us {
+		left: 32px;
+		top: 804px;
+		position: absolute;
+		overflow: visible;
+		width: 172px;
+		height: 26px;
+		text-align: left;
+		font-family: Gotham;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(250,167,30,1);
+	}
+	#subscribebutton_1 {
+		position: absolute;
+		width: 47px;
+		height: 16px;
+		left: 201px;
+		top: 1319px;
+		overflow: visible;
+	}
+	#rays_2 {
+		position: absolute;
+		width: 375px;
+		height: 115px;
+		left: 0px;
+		top: 1049px;
+		overflow: visible;
+	}
+	#findmorebutton_1 {
+		position: absolute;
+		width: 134px;
+		height: 46px;
+		left: 43px;
+		top: 1086px;
+		overflow: visible;
+	}
+	#image_1 {
+		position: absolute;
+		width: 142px;
+		height: 43px;
+		left: 200px;
+		top: 1089px;
+		overflow: visible;
+	}
+	#Group_3_de {
+		position: absolute;
+		width: 86px;
+		height: 22.872px;
+		left: 145px;
+		top: 1373px;
+		overflow: visible;
+	}
+	#Vector_df {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector_df {
+		overflow: visible;
+		position: absolute;
+		width: 22.872px;
+		height: 22.872px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Vector_dg {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector_dg {
+		overflow: visible;
+		position: absolute;
+		width: 22.872px;
+		height: 22.872px;
+		left: 31.106px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Vector_dh {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector_dh {
+		overflow: visible;
+		position: absolute;
+		width: 22.872px;
+		height: 22.872px;
+		left: 63.128px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#rays_4 {
+		position: absolute;
+		width: 375px;
+		height: 73px;
+		left: 0px;
+		top: 1347px;
+		overflow: visible;
+	}
+	#Rectangle_11 {
+		fill: rgba(81,62,154,1);
+	}
+	.Rectangle_11 {
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 186px;
+		left: 0px;
+		top: 1164px;
+	}
+	#Rectangle_12 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_12 {
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		height: 16px;
+		left: 201px;
+		top: 1198px;
+	}
+	#Rectangle_14 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_14 {
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		height: 60px;
+		left: 201px;
+		top: 1226px;
+	}
+	#Email_dm {
+		left: 204px;
+		top: 1199px;
+		position: absolute;
+		overflow: visible;
+		width: 38px;
+		height: 15px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#Message_dn {
+		left: 204px;
+		top: 1228px;
+		position: absolute;
+		overflow: visible;
+		width: 55px;
+		height: 15px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#Any_questions_regarding_produc_do {
+		left: 32px;
+		top: 1255px;
+		position: absolute;
+		overflow: hidden;
+		width: 146px;
+		height: 56px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(255,255,255,1);
+	}
+	#rays_5 {
+		position: absolute;
+		width: 375px;
+		height: 115px;
+		left: 0px;
+		top: 1049px;
+		overflow: visible;
+	}
+	#image_2_dq {
+		position: absolute;
+		width: 142px;
+		height: 43px;
+		left: 200px;
+		top: 1089px;
+		overflow: visible;
+	}
+	#Group_4 {
+		position: absolute;
+		width: 86px;
+		height: 22.872px;
+		left: 145px;
+		top: 1373px;
+		overflow: visible;
+	}
+	#Vector_ds {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector_ds {
+		overflow: visible;
+		position: absolute;
+		width: 22.872px;
+		height: 22.872px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Vector_dt {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector_dt {
+		overflow: visible;
+		position: absolute;
+		width: 22.872px;
+		height: 22.872px;
+		left: 31.106px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Vector_du {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector_du {
+		overflow: visible;
+		position: absolute;
+		width: 22.872px;
+		height: 22.872px;
+		left: 63.128px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Asset_1_2_dv {
+		position: absolute;
+		width: 145px;
+		height: 95px;
+		left: 32px;
+		top: 34px;
+		overflow: visible;
+		transition: all 0s linear;
+		--web-animation: fadein 0s linear;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_15;
+		cursor: pointer;
+	}
+	#findmorebttn {
+		position: absolute;
+		width: 134px;
+		height: 42px;
+		left: 43px;
+		top: 1089px;
+		overflow: visible;
+	}
+	#Want_to_learn_more_or_have_que_dx {
+		left: 32px;
+		top: 1193px;
+		position: absolute;
+		overflow: visible;
+		width: 146px;
+		height: 57px;
+		line-height: 16px;
+		margin-top: -1px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#enterbttn_1_dy {
+		position: absolute;
+		width: 84px;
+		height: 28px;
+		left: 201px;
+		top: 1297px;
+		overflow: visible;
+	}
+}
+@media (min-width: 0px) {
+	.mediaViewInfo {
+		--web-view-name: iPhone 11 Pro / X - 15;
+		--web-view-id: iPhone_11_Pro__X_-_15;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#iPhone_11_Pro__X_-_15 {
+		position: absolute;
+		display: block;
+		width: 375px;
+		height: 1416px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: iPhone 11 Pro / X - 15;
+		--web-view-id: iPhone_11_Pro__X_-_15;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	#rays_3_d {
+		position: absolute;
+		width: 375px;
+		height: 73px;
+		left: 0px;
+		top: 1347px;
+		overflow: visible;
+	}
+	#rays_1_d {
+		position: absolute;
+		width: 375px;
+		height: 413px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_19_d {
+		fill: rgba(81,62,154,1);
+	}
+	.Rectangle_19_d {
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 643px;
+		left: 0px;
+		top: 406px;
+	}
+	#Res_conse_conse_volorion_pro_d_d {
+		left: 32px;
+		top: 475px;
+		position: absolute;
+		overflow: visible;
+		width: 311px;
+		height: 123px;
+		line-height: 18px;
+		margin-top: -2px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#Mission_Statement_d {
+		left: 32px;
+		top: 462px;
+		position: absolute;
+		overflow: visible;
+		width: 302px;
+		height: 44px;
+		text-align: left;
+		font-family: Gotham;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(250,167,30,1);
+	}
+	#Group_8_d {
+		position: absolute;
+		width: 19px;
+		height: 12px;
+		left: 323px;
+		top: 54px;
+		overflow: visible;
+		--web-animation: fadein 0.6s ease-in;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_3;
+		cursor: pointer;
+	}
+	#Group_1_d {
+		position: absolute;
+		width: 19px;
+		height: 12px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Line_1_d {
+		fill: transparent;
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_1_d {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_2_d {
+		fill: transparent;
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_2_d {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 6px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_3_ea {
+		fill: transparent;
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_3_ea {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 12px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Rectangle_5_eb {
+		fill: rgba(81,62,154,1);
+	}
+	.Rectangle_5_eb {
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 183px;
+		left: 0px;
+		top: 1164px;
+	}
+	#Rectangle_6_ec {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_6_ec {
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		height: 16px;
+		left: 201px;
+		top: 1198px;
+	}
+	#Rectangle_7_ed {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_7_ed {
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		height: 16px;
+		left: 201px;
+		top: 1225px;
+	}
+	#Rectangle_8_ee {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_8_ee {
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		height: 60px;
+		left: 201px;
+		top: 1251px;
+	}
+	#Email_ey {
+		left: 204px;
+		top: 1199px;
+		position: absolute;
+		overflow: visible;
+		width: 38px;
+		height: 15px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#Subject_eg {
+		left: 204px;
+		top: 1227px;
+		position: absolute;
+		overflow: visible;
+		width: 47px;
+		height: 15px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#Message_eh {
+		left: 204px;
+		top: 1253px;
+		position: absolute;
+		overflow: visible;
+		width: 55px;
+		height: 15px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#Want_to_learn_more_or_have_que_ei {
+		left: 32px;
+		top: 1194px;
+		position: absolute;
+		overflow: visible;
+		width: 146px;
+		height: 57px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(255,255,255,1);
+	}
+	#Any_questions_regarding_produc_ej {
+		left: 32px;
+		top: 1262px;
+		position: absolute;
+		overflow: hidden;
+		width: 146px;
+		height: 56px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(255,255,255,1);
+	}
+	#Res_conse_conse_volorion_pro_d_ek {
+		left: 32px;
+		top: 817px;
+		position: absolute;
+		overflow: visible;
+		width: 311px;
+		height: 146px;
+		line-height: 18px;
+		margin-top: -2px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#About_Us_el {
+		left: 32px;
+		top: 804px;
+		position: absolute;
+		overflow: visible;
+		width: 172px;
+		height: 26px;
+		text-align: left;
+		font-family: Gotham;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(250,167,30,1);
+	}
+	#subscribebutton_1_em {
+		position: absolute;
+		width: 47px;
+		height: 16px;
+		left: 201px;
+		top: 1319px;
+		overflow: visible;
+	}
+	#rays_2_en {
+		position: absolute;
+		width: 375px;
+		height: 115px;
+		left: 0px;
+		top: 1049px;
+		overflow: visible;
+	}
+	#findmorebutton_1_eo {
+		position: absolute;
+		width: 134px;
+		height: 46px;
+		left: 43px;
+		top: 1086px;
+		overflow: visible;
+	}
+	#image_1_ep {
+		position: absolute;
+		width: 142px;
+		height: 43px;
+		left: 200px;
+		top: 1089px;
+		overflow: visible;
+	}
+	#Group_3_eq {
+		position: absolute;
+		width: 86px;
+		height: 22.872px;
+		left: 145px;
+		top: 1373px;
+		overflow: visible;
+	}
+	#Vector_er {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector_er {
+		overflow: visible;
+		position: absolute;
+		width: 22.872px;
+		height: 22.872px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Vector_es {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector_es {
+		overflow: visible;
+		position: absolute;
+		width: 22.872px;
+		height: 22.872px;
+		left: 31.106px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Vector_et {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector_et {
+		overflow: visible;
+		position: absolute;
+		width: 22.872px;
+		height: 22.872px;
+		left: 63.128px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#rays_4_eu {
+		position: absolute;
+		width: 375px;
+		height: 73px;
+		left: 0px;
+		top: 1347px;
+		overflow: visible;
+	}
+	#Rectangle_11_ev {
+		fill: rgba(81,62,154,1);
+	}
+	.Rectangle_11_ev {
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 186px;
+		left: 0px;
+		top: 1164px;
+	}
+	#Rectangle_12_ew {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_12_ew {
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		height: 16px;
+		left: 201px;
+		top: 1198px;
+	}
+	#Rectangle_14_ex {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_14_ex {
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		height: 60px;
+		left: 201px;
+		top: 1226px;
+	}
+	#Email_ey {
+		left: 204px;
+		top: 1199px;
+		position: absolute;
+		overflow: visible;
+		width: 38px;
+		height: 15px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#Message_ez {
+		left: 204px;
+		top: 1228px;
+		position: absolute;
+		overflow: visible;
+		width: 55px;
+		height: 15px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#Want_to_learn_more_or_have_que_e {
+		left: 32px;
+		top: 1193px;
+		position: absolute;
+		overflow: visible;
+		width: 146px;
+		height: 57px;
+		line-height: 16px;
+		margin-top: -1px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#Any_questions_regarding_produc_e {
+		left: 32px;
+		top: 1255px;
+		position: absolute;
+		overflow: hidden;
+		width: 146px;
+		height: 56px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(255,255,255,1);
+	}
+	#rays_5_e {
+		position: absolute;
+		width: 375px;
+		height: 115px;
+		left: 0px;
+		top: 1049px;
+		overflow: visible;
+	}
+	#image_2_e {
+		position: absolute;
+		width: 142px;
+		height: 43px;
+		left: 200px;
+		top: 1089px;
+		overflow: visible;
+	}
+	#Group_4_e {
+		position: absolute;
+		width: 86px;
+		height: 22.872px;
+		left: 145px;
+		top: 1373px;
+		overflow: visible;
+	}
+	#Vector_e {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector_e {
+		overflow: visible;
+		position: absolute;
+		width: 22.872px;
+		height: 22.872px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Vector_fa {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector_fa {
+		overflow: visible;
+		position: absolute;
+		width: 22.872px;
+		height: 22.872px;
+		left: 31.106px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Vector_fb {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector_fb {
+		overflow: visible;
+		position: absolute;
+		width: 22.872px;
+		height: 22.872px;
+		left: 63.128px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Asset_1_2_e {
+		position: absolute;
+		width: 313px;
+		height: 205.779px;
+		left: 32px;
+		top: 90.221px;
+		overflow: visible;
+	}
+	#findmorebttn_e {
+		position: absolute;
+		width: 134px;
+		height: 42px;
+		left: 43px;
+		top: 1089px;
+		overflow: visible;
+	}
+	#enterbttn_1_fa {
+		position: absolute;
+		width: 84px;
+		height: 28px;
+		left: 201px;
+		top: 1297px;
+		overflow: visible;
+	}
+	#Rectangle_10_fb {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_10_fb {
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 93px;
+		left: 0px;
+		top: 648px;
+	}
+	#MellowNugz__leaf_fc {
+		position: absolute;
+		width: 102px;
+		height: 86px;
+		left: 135px;
+		top: 652px;
+		overflow: visible;
+	}
+	#reversed_smore__leaf_2_fd {
+		position: absolute;
+		width: 114px;
+		height: 88px;
+		left: 251px;
+		top: 655px;
+		overflow: visible;
+	}
+	#bite_me_brownie__leaf_1_fe {
+		position: absolute;
+		width: 113px;
+		height: 71px;
+		left: 8px;
+		top: 661px;
+		overflow: visible;
+	}
+}
+@media (min-width: 0px) {
+	.mediaViewInfo {
+		--web-view-name: iPhone 11 Pro / X - 2;
+		--web-view-id: iPhone_11_Pro__X_-_2;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#iPhone_11_Pro__X_-_2 {
+		position: absolute;
+		display: block;
+		width: 375px;
+		height: 1594px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: iPhone 11 Pro / X - 2;
+		--web-view-id: iPhone_11_Pro__X_-_2;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	#rays_6_fh {
+		position: absolute;
+		width: 375px;
+		height: 413px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Asset_1_2_fi {
+		position: absolute;
+		width: 145px;
+		height: 95px;
+		left: 32px;
+		top: 34px;
+		overflow: visible;
+		transition: all 0s linear;
+		--web-animation: fadein 0s linear;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_15;
+		cursor: pointer;
+	}
+	#Rectangle_19_fj {
+		fill: rgba(81,62,154,1);
+	}
+	.Rectangle_19_fj {
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 1371px;
+		left: 0px;
+		top: 150px;
+	}
+	#Group_9_fk {
+		position: absolute;
+		width: 19px;
+		height: 12px;
+		left: 323px;
+		top: 54px;
+		overflow: visible;
+		transition: all 0s linear;
+		--web-animation: fadein 0s linear;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_11;
+		cursor: pointer;
+	}
+	#Group_1_fl {
+		position: absolute;
+		width: 19px;
+		height: 12px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Line_1_fm {
+		fill: transparent;
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_1_fm {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_2_fn {
+		fill: transparent;
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_2_fn {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 6px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_3_fo {
+		fill: transparent;
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_3_fo {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 12px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Screen_Shot_2020-07-06_at_442_ {
+		position: absolute;
+		width: 375px;
+		height: 242px;
+		left: 0px;
+		top: 247px;
+		overflow: visible;
+	}
+	#Ellipse_1 {
+		fill: rgba(85,85,85,1);
+	}
+	.Ellipse_1 {
+		position: absolute;
+		overflow: visible;
+		width: 30px;
+		height: 30px;
+		left: 328px;
+		top: 447px;
+	}
+	#Group_18 {
+		position: absolute;
+		width: 15px;
+		height: 36px;
+		left: 334px;
+		top: 443.5px;
+		overflow: visible;
+	}
+	#N {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 13px;
+		height: 36px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(255,255,255,1);
+	}
+	#Arrow_1 {
+		fill: transparent;
+		stroke: rgba(255,255,255,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Arrow_1 {
+		overflow: visible;
+		position: absolute;
+		width: 10px;
+		height: 1px;
+		transform: translate(-334px, -443.5px) matrix(1,0,0,1,344,462) rotate(-90deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#Locations {
+		left: 33px;
+		top: 511px;
+		position: absolute;
+		overflow: visible;
+		width: 171px;
+		height: 26px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(255,255,255,1);
+	}
+	#FAQ {
+		left: 34px;
+		top: 1171px;
+		position: absolute;
+		overflow: visible;
+		width: 171px;
+		height: 26px;
+		text-align: left;
+		font-family: Gotham;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(250,167,30,1);
+	}
+	#Wholesale {
+		left: 33px;
+		top: 797px;
+		position: absolute;
+		overflow: visible;
+		width: 171px;
+		height: 26px;
+		text-align: left;
+		font-family: Gotham;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(250,167,30,1);
+	}
+	#Hours {
+		left: 212px;
+		top: 511px;
+		position: absolute;
+		overflow: visible;
+		width: 171px;
+		height: 26px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(255,255,255,1);
+	}
+	#Tempe_location_5210_S_Priest_D {
+		left: 33px;
+		top: 550px;
+		position: absolute;
+		overflow: visible;
+		width: 155px;
+		height: 65px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(28,160,255,1);
+	}
+	#Monday_-_Sunday_10AM8PM {
+		left: 212px;
+		top: 551px;
+		position: absolute;
+		overflow: hidden;
+		width: 128px;
+		height: 53px;
+		line-height: 20px;
+		margin-top: -2.5px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(255,255,255,1);
+	}
+	#Monday_-_Sunday_10AM8PM_f {
+		left: 212px;
+		top: 640px;
+		position: absolute;
+		overflow: hidden;
+		width: 128px;
+		height: 53px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(255,255,255,1);
+	}
+	#What_is_in_the_sofaking_edible {
+		left: 66px;
+		top: 1197px;
+		position: absolute;
+		overflow: visible;
+		width: 261px;
+		height: 20px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(255,255,255,1);
+	}
+	#Are_they_sugar_free {
+		left: 66px;
+		top: 1235px;
+		position: absolute;
+		overflow: visible;
+		width: 261px;
+		height: 20px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(255,255,255,1);
+	}
+	#Are_there_any_gluten_free_opti {
+		left: 66px;
+		top: 1273px;
+		position: absolute;
+		overflow: visible;
+		width: 261px;
+		height: 20px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(255,255,255,1);
+	}
+	#What_is_the_recommended_dosage {
+		left: 66px;
+		top: 1310px;
+		position: absolute;
+		overflow: visible;
+		width: 261px;
+		height: 20px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(255,255,255,1);
+	}
+	#Mesa_location_330_E_Southern_A {
+		left: 33px;
+		top: 640px;
+		position: absolute;
+		overflow: visible;
+		width: 155px;
+		height: 65px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(28,160,255,1);
+	}
+	#Rectangle_16 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_16 {
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		height: 16px;
+		left: 201px;
+		top: 1372px;
+	}
+	#Rectangle_18 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_18 {
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		height: 60px;
+		left: 201px;
+		top: 1400px;
+	}
+	#Email_f {
+		left: 204px;
+		top: 1373px;
+		position: absolute;
+		overflow: visible;
+		width: 38px;
+		height: 15px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#Message_f {
+		left: 204px;
+		top: 1402px;
+		position: absolute;
+		overflow: visible;
+		width: 55px;
+		height: 15px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#Polygon_5 {
+		fill: rgba(255,255,255,1);
+	}
+	.Polygon_5 {
+		overflow: visible;
+		position: absolute;
+		width: 16px;
+		height: 16px;
+		transform: matrix(1,0,0,1,42,1199) rotate(90deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#Polygon_6 {
+		fill: rgba(255,255,255,1);
+	}
+	.Polygon_6 {
+		overflow: visible;
+		position: absolute;
+		width: 16px;
+		height: 16px;
+		transform: matrix(1,0,0,1,42,1237) rotate(90deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#Polygon_7 {
+		fill: rgba(255,255,255,1);
+	}
+	.Polygon_7 {
+		overflow: visible;
+		position: absolute;
+		width: 16px;
+		height: 16px;
+		transform: matrix(1,0,0,1,42,1275) rotate(90deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#Polygon_8 {
+		fill: rgba(255,255,255,1);
+	}
+	.Polygon_8 {
+		overflow: visible;
+		position: absolute;
+		width: 16px;
+		height: 16px;
+		transform: matrix(1,0,0,1,42,1312) rotate(90deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#Contact_Us {
+		left: 33px;
+		top: 203px;
+		position: absolute;
+		overflow: visible;
+		width: 171px;
+		height: 26px;
+		text-align: left;
+		font-family: Gotham;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(250,167,30,1);
+	}
+	#If_you_would_like_to_see_this_ {
+		left: 33px;
+		top: 810px;
+		position: absolute;
+		overflow: visible;
+		width: 310px;
+		height: 68px;
+		line-height: 18px;
+		margin-top: -2px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_2 {
+		position: absolute;
+		width: 129px;
+		height: 44px;
+		left: 33px;
+		top: 1072px;
+		overflow: visible;
+	}
+	#enterbttn_gh {
+		position: absolute;
+		width: 129px;
+		height: 44px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_35_gi {
+		fill: rgba(192,30,102,1);
+	}
+	.Rectangle_35_gi {
+		position: absolute;
+		overflow: visible;
+		width: 97px;
+		height: 25px;
+		left: 18px;
+		top: 7px;
+	}
+	#Request_gj {
+		left: 34px;
+		top: 10px;
+		position: absolute;
+		overflow: visible;
+		width: 62px;
+		height: 20px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(255,255,255,1);
+	}
+	#rays_8 {
+		position: absolute;
+		width: 375px;
+		height: 73px;
+		left: 0px;
+		top: 1521px;
+		overflow: visible;
+	}
+	#Group_11 {
+		position: absolute;
+		width: 86px;
+		height: 22.872px;
+		left: 145px;
+		top: 1547px;
+		overflow: visible;
+	}
+	#Vector_gm {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector_gm {
+		overflow: visible;
+		position: absolute;
+		width: 22.872px;
+		height: 22.872px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Vector_gn {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector_gn {
+		overflow: visible;
+		position: absolute;
+		width: 22.872px;
+		height: 22.872px;
+		left: 31.106px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Vector_go {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector_go {
+		overflow: visible;
+		position: absolute;
+		width: 22.872px;
+		height: 22.872px;
+		left: 63.128px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Any_questions_regarding_produc_gp {
+		left: 34px;
+		top: 1429px;
+		position: absolute;
+		overflow: hidden;
+		width: 146px;
+		height: 56px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(255,255,255,1);
+	}
+	#Want_to_learn_more_or_have_que_gq {
+		left: 33px;
+		top: 1365px;
+		position: absolute;
+		overflow: visible;
+		width: 146px;
+		height: 57px;
+		line-height: 16px;
+		margin-top: -1px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#enterbttn_1_gr {
+		position: absolute;
+		width: 84px;
+		height: 28px;
+		left: 201px;
+		top: 1471px;
+		overflow: visible;
+	}
+	#sofaking_assorted_3_cut_2 {
+		position: absolute;
+		width: 288px;
+		height: 168px;
+		left: 44px;
+		top: 859px;
+		overflow: visible;
+	}
+	#Baked_Goods {
+		left: 34px;
+		top: 1005px;
+		position: absolute;
+		overflow: visible;
+		width: 176px;
+		height: 6px;
+		text-align: left;
+		font-family: Gotham;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(250,167,30,1);
+	}
+	#Baked_Goods_gu {
+		left: 34px;
+		top: 1015px;
+		position: absolute;
+		overflow: visible;
+		width: 284px;
+		height: 45px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(250,167,30,1);
+	}
+}
+@media (min-width: 0px) {
+	.mediaViewInfo {
+		--web-view-name: iPhone 11 Pro / X - 3;
+		--web-view-id: iPhone_11_Pro__X_-_3;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#iPhone_11_Pro__X_-_3 {
+		position: absolute;
+		display: block;
+		width: 375px;
+		height: 812px;
+		background-color: rgba(81,62,154,1);
+		overflow: hidden;
+		--web-view-name: iPhone 11 Pro / X - 3;
+		--web-view-id: iPhone_11_Pro__X_-_3;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	@keyframes  {
+	
+	
+	}
+	@keyframes  {
+	
+	
+	}
+	@keyframes  {
+	
+	
+	}
+	@keyframes  {
+	
+	
+	}
+	@keyframes  {
+	
+	
+	}
+	#Rectangle_9 {
+		fill: rgba(81,62,154,0.431);
+	}
+	.Rectangle_9 {
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 812px;
+		left: 0px;
+		top: 0px;
+	}
+	#Group_7 {
+		position: absolute;
+		width: 19px;
+		height: 12px;
+		left: 323px;
+		top: 54px;
+		overflow: visible;
+		--web-animation: fadein undefineds undefined;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_1;
+		cursor: pointer;
+	}
+	#Line_1_gz {
+		fill: transparent;
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_1_gz {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_2_g {
+		fill: transparent;
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_2_g {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 6px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_3_g {
+		fill: transparent;
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_3_g {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 12px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Home {
+		left: 96px;
+		top: 84.5px;
+		position: absolute;
+		overflow: hidden;
+		width: 228px;
+		height: 70px;
+		--web-animation: fadein undefineds undefined;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_1;
+		cursor: pointer;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	#Contact_Us_g {
+		left: 96px;
+		top: 209px;
+		position: absolute;
+		overflow: hidden;
+		width: 228px;
+		height: 44px;
+		--web-animation: fadein undefineds undefined;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_2;
+		cursor: pointer;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	#Merchandise {
+		left: 96px;
+		top: 474px;
+		position: absolute;
+		overflow: hidden;
+		width: 228px;
+		height: 44px;
+		--web-animation: fadein undefineds undefined;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_5;
+		cursor: pointer;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	#Sofaking_Brand_g {
+		left: 96px;
+		top: 326px;
+		position: absolute;
+		overflow: hidden;
+		width: 228px;
+		height: 94px;
+		--web-animation: fadein undefineds undefined;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_4;
+		cursor: pointer;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	#Vector_g {
+		fill: rgba(250,167,30,1);
+	}
+	.Vector_g {
+		overflow: visible;
+		position: absolute;
+		width: 47.872px;
+		height: 47.872px;
+		left: 76.032px;
+		top: 718px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Vector_ha {
+		fill: rgba(250,167,30,1);
+	}
+	.Vector_ha {
+		overflow: visible;
+		position: absolute;
+		width: 47.872px;
+		height: 47.872px;
+		left: 165.532px;
+		top: 718px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Vector_hb {
+		fill: rgba(250,167,30,1);
+	}
+	.Vector_hb {
+		overflow: visible;
+		position: absolute;
+		width: 47.872px;
+		height: 47.872px;
+		left: 251.096px;
+		top: 718px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Asset_1_4 {
+		position: absolute;
+		width: 38px;
+		height: 28px;
+		left: 83px;
+		top: 55px;
+		overflow: visible;
+	}
+}
+@media (min-width: 0px) {
+	.mediaViewInfo {
+		--web-view-name: iPhone 11 Pro / X - 5;
+		--web-view-id: iPhone_11_Pro__X_-_5;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#iPhone_11_Pro__X_-_5 {
+		position: absolute;
+		display: block;
+		width: 375px;
+		height: 2160px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: iPhone 11 Pro / X - 5;
+		--web-view-id: iPhone_11_Pro__X_-_5;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	#rays_1_hc {
+		position: absolute;
+		width: 375px;
+		height: 413px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Asset_1_2_hd {
+		position: absolute;
+		width: 145px;
+		height: 95px;
+		left: 32px;
+		top: 34px;
+		overflow: visible;
+		transition: all 0s linear;
+		--web-animation: fadein 0s linear;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_15;
+		cursor: pointer;
+	}
+	#Rectangle_30 {
+		fill: rgba(81,62,154,1);
+	}
+	.Rectangle_30 {
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 1530px;
+		left: 0px;
+		top: 150px;
+	}
+	#Group_11_hf {
+		position: absolute;
+		width: 19px;
+		height: 12px;
+		left: 323px;
+		top: 54px;
+		overflow: visible;
+		transition: all 0s linear;
+		--web-animation: fadein 0s linear;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_9;
+		cursor: pointer;
+	}
+	#Group_6 {
+		position: absolute;
+		width: 19px;
+		height: 12px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Line_1_hh {
+		fill: transparent;
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_1_hh {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_2_hi {
+		fill: transparent;
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_2_hi {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 6px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_3_hj {
+		fill: transparent;
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_3_hj {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 12px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Merchandise_hk {
+		left: 33px;
+		top: 169px;
+		position: absolute;
+		overflow: hidden;
+		width: 171px;
+		height: 26px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(250,167,30,1);
+	}
+	#Merchandise_hl {
+		left: 33px;
+		top: 802px;
+		position: absolute;
+		overflow: hidden;
+		width: 171px;
+		height: 26px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(250,167,30,1);
+	}
+	#Figures {
+		left: 33px;
+		top: 1306px;
+		position: absolute;
+		overflow: visible;
+		width: 171px;
+		height: 26px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(250,167,30,1);
+	}
+	#Other_Brands {
+		left: 29px;
+		top: 1697px;
+		position: absolute;
+		overflow: visible;
+		width: 171px;
+		height: 26px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(0,0,0,1);
+	}
+	#Screen_Shot_2020-06-30_at_241_ {
+		position: absolute;
+		width: 136px;
+		height: 122px;
+		left: 33px;
+		top: 233px;
+		overflow: visible;
+	}
+	#Screen_Shot_2020-06-30_at_214_ {
+		position: absolute;
+		width: 147px;
+		height: 122px;
+		left: 195px;
+		top: 233px;
+		overflow: visible;
+	}
+	#Screen_Shot_2020-06-30_at_228_ {
+		position: absolute;
+		width: 1px;
+		height: 0.901px;
+		left: 33px;
+		top: 424px;
+		overflow: visible;
+	}
+	#Screen_Shot_2020-06-30_at_228__hr {
+		position: absolute;
+		width: 135px;
+		height: 122px;
+		left: 33px;
+		top: 382px;
+		overflow: visible;
+	}
+	#YELLOW-SK-MockUps_1 {
+		position: absolute;
+		width: 74px;
+		height: 122px;
+		left: 200px;
+		top: 382px;
+		overflow: visible;
+	}
+	#Screen_Shot_2020-06-26_at_433_ {
+		position: absolute;
+		width: 68px;
+		height: 122px;
+		left: 274px;
+		top: 382px;
+		overflow: visible;
+	}
+	#Res_conse_conse_volorion_pro_d_hu {
+		left: 37px;
+		top: 542px;
+		position: absolute;
+		overflow: visible;
+		width: 311px;
+		height: 237px;
+		line-height: 18px;
+		margin-top: -2px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#Res_conse_conse_volorion_pro_d_hv {
+		left: 33px;
+		top: 1486px;
+		position: absolute;
+		overflow: visible;
+		width: 310px;
+		height: 123px;
+		line-height: 18px;
+		margin-top: -2px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#image_5 {
+		position: absolute;
+		width: 147px;
+		height: 149.513px;
+		left: 195px;
+		top: 1728px;
+		overflow: visible;
+	}
+	#image_3 {
+		position: absolute;
+		width: 125px;
+		height: 126.316px;
+		left: 34px;
+		top: 1740px;
+		overflow: visible;
+	}
+	#Rectangle_5_hy {
+		fill: rgba(81,62,154,1);
+	}
+	.Rectangle_5_hy {
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 183px;
+		left: 0px;
+		top: 1904px;
+	}
+	#Rectangle_6_hz {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_6_hz {
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		height: 16px;
+		left: 202px;
+		top: 1938px;
+	}
+	#Email_ia {
+		left: 205px;
+		top: 1939px;
+		position: absolute;
+		overflow: visible;
+		width: 38px;
+		height: 15px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#Any_questions_regarding_produc_h {
+		left: 33px;
+		top: 1994px;
+		position: absolute;
+		overflow: hidden;
+		width: 146px;
+		height: 56px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(255,255,255,1);
+	}
+	#Rectangle_12_h {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_12_h {
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		height: 16px;
+		left: 202px;
+		top: 1938px;
+	}
+	#Email_ia {
+		left: 205px;
+		top: 1939px;
+		position: absolute;
+		overflow: visible;
+		width: 38px;
+		height: 15px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#rays_8_h {
+		position: absolute;
+		width: 375px;
+		height: 73px;
+		left: 0px;
+		top: 2087px;
+		overflow: visible;
+	}
+	#Group_11_h {
+		position: absolute;
+		width: 86px;
+		height: 22.872px;
+		left: 145px;
+		top: 2113px;
+		overflow: visible;
+	}
+	#Vector_h {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector_h {
+		overflow: visible;
+		position: absolute;
+		width: 22.872px;
+		height: 22.872px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Vector_ia {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector_ia {
+		overflow: visible;
+		position: absolute;
+		width: 22.872px;
+		height: 22.872px;
+		left: 31.106px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Vector_ib {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector_ib {
+		overflow: visible;
+		position: absolute;
+		width: 22.872px;
+		height: 22.872px;
+		left: 63.128px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#redshirt {
+		position: absolute;
+		width: 175px;
+		height: 292px;
+		left: 104px;
+		top: 867px;
+		overflow: visible;
+	}
+	#purpleshirt {
+		position: absolute;
+		width: 102.77px;
+		height: 184.986px;
+		left: -17px;
+		top: 940px;
+		overflow: visible;
+	}
+	#greenshirt {
+		position: absolute;
+		width: 102.773px;
+		height: 185px;
+		left: 297px;
+		top: 940px;
+		overflow: visible;
+	}
+	#Want_to_learn_more_or_have_que_ic {
+		left: 32px;
+		top: 1933px;
+		position: absolute;
+		overflow: visible;
+		width: 146px;
+		height: 57px;
+		line-height: 16px;
+		margin-top: -1px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_20 {
+		position: absolute;
+		width: 70px;
+		height: 70px;
+		left: 55px;
+		top: 1197px;
+		overflow: visible;
+		transition: all 0.6s ease-in;
+		--web-animation: fadein 0.6s ease-in;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_7;
+		cursor: pointer;
+	}
+	#Ellipse_2 {
+		fill: rgba(171,92,199,1);
+	}
+	.Ellipse_2 {
+		width: 70px;
+		height: 70px;
+		position: absolute;
+		overflow: visible;
+		transform: translate(-80px, -1213px) matrix(1,0,0,1,80,1213) rotate(180deg);
+		transform-origin: center;
+	}
+	#Group_13 {
+		position: absolute;
+		width: 33px;
+		height: 46px;
+		left: 12px;
+		top: 12px;
+		overflow: visible;
+	}
+	#Polygon_10 {
+		fill: rgba(255,255,255,0.451);
+	}
+	.Polygon_10 {
+		overflow: visible;
+		position: absolute;
+		width: 46px;
+		height: 33px;
+		transform: translate(-92px, -1225px) matrix(1,0,0,1,85.5,1231.5) rotate(-90deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#Group_20_ih {
+		transform: matrix(1,0,0,1,250,1197) rotate(180deg);
+		transform-origin: center;
+		position: absolute;
+		width: 70px;
+		height: 70px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+		transition: all 0.6s ease-in;
+		--web-animation: fadein 0.6s ease-in;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_8;
+		cursor: pointer;
+	}
+	#Ellipse_2_ii {
+		fill: rgba(171,92,199,1);
+	}
+	.Ellipse_2_ii {
+		width: 70px;
+		height: 70px;
+		position: absolute;
+		overflow: visible;
+		transform: translate(150px, 1283px) matrix(1,0,0,1,80,1213) rotate(180deg);
+		transform-origin: center;
+	}
+	#Group_13_ij {
+		position: absolute;
+		width: 33px;
+		height: 46px;
+		left: 25px;
+		top: 12px;
+		overflow: visible;
+	}
+	#Polygon_10_ik {
+		fill: rgba(255,255,255,0.451);
+	}
+	.Polygon_10_ik {
+		overflow: visible;
+		position: absolute;
+		width: 46px;
+		height: 33px;
+		transform: translate(125px, 1271px) matrix(1,0,0,1,85.5,1231.5) rotate(-90deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#Rectangle_38_il {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_38_il {
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		height: 71px;
+		left: 202px;
+		top: 1966px;
+	}
+	#Message_im {
+		left: 205px;
+		top: 1968px;
+		position: absolute;
+		overflow: visible;
+		width: 55px;
+		height: 15px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#enterbttn_1_in {
+		position: absolute;
+		width: 84px;
+		height: 28px;
+		left: 202px;
+		top: 2048px;
+		overflow: visible;
+	}
+	#Image_2 {
+		position: absolute;
+		width: 297px;
+		height: 82px;
+		left: 39px;
+		top: 1354px;
+		overflow: visible;
+	}
+}
+@media (min-width: 0px) {
+	.mediaViewInfo {
+		--web-view-name: iPhone 11 Pro / X - 8;
+		--web-view-id: iPhone_11_Pro__X_-_8;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#iPhone_11_Pro__X_-_8 {
+		position: absolute;
+		display: block;
+		width: 375px;
+		height: 2160px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: iPhone 11 Pro / X - 8;
+		--web-view-id: iPhone_11_Pro__X_-_8;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	#rays_1_ir {
+		position: absolute;
+		width: 375px;
+		height: 413px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Asset_1_2_is {
+		position: absolute;
+		width: 145px;
+		height: 95px;
+		left: 32px;
+		top: 34px;
+		overflow: visible;
+		transition: all 0s linear;
+		--web-animation: fadein 0s linear;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_15;
+		cursor: pointer;
+	}
+	#Rectangle_30_it {
+		fill: rgba(81,62,154,1);
+	}
+	.Rectangle_30_it {
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 1530px;
+		left: 0px;
+		top: 150px;
+	}
+	#Group_11_iu {
+		position: absolute;
+		width: 19px;
+		height: 12px;
+		left: 323px;
+		top: 54px;
+		overflow: visible;
+		transition: all 0s linear;
+		--web-animation: fadein 0s linear;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_9;
+		cursor: pointer;
+	}
+	#Group_6_iv {
+		position: absolute;
+		width: 19px;
+		height: 12px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Line_1_iw {
+		fill: transparent;
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_1_iw {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_2_ix {
+		fill: transparent;
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_2_ix {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 6px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_3_iy {
+		fill: transparent;
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_3_iy {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 12px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Merchandise_iz {
+		left: 33px;
+		top: 169px;
+		position: absolute;
+		overflow: hidden;
+		width: 171px;
+		height: 26px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(250,167,30,1);
+	}
+	#Merchandise_i {
+		left: 33px;
+		top: 802px;
+		position: absolute;
+		overflow: hidden;
+		width: 171px;
+		height: 26px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(250,167,30,1);
+	}
+	#Figures_i {
+		left: 33px;
+		top: 1306px;
+		position: absolute;
+		overflow: visible;
+		width: 171px;
+		height: 26px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(250,167,30,1);
+	}
+	#Screen_Shot_2020-06-30_at_241__i {
+		position: absolute;
+		width: 136px;
+		height: 122px;
+		left: 33px;
+		top: 233px;
+		overflow: visible;
+	}
+	#Screen_Shot_2020-06-30_at_214__i {
+		position: absolute;
+		width: 147px;
+		height: 122px;
+		left: 195px;
+		top: 233px;
+		overflow: visible;
+	}
+	#Screen_Shot_2020-06-30_at_228__i {
+		position: absolute;
+		width: 1px;
+		height: 0.901px;
+		left: 33px;
+		top: 424px;
+		overflow: visible;
+	}
+	#Screen_Shot_2020-06-30_at_228__ja {
+		position: absolute;
+		width: 135px;
+		height: 122px;
+		left: 33px;
+		top: 382px;
+		overflow: visible;
+	}
+	#YELLOW-SK-MockUps_1_i {
+		position: absolute;
+		width: 74px;
+		height: 122px;
+		left: 200px;
+		top: 382px;
+		overflow: visible;
+	}
+	#Screen_Shot_2020-06-26_at_433__i {
+		position: absolute;
+		width: 68px;
+		height: 122px;
+		left: 274px;
+		top: 382px;
+		overflow: visible;
+	}
+	#Res_conse_conse_volorion_pro_d_i {
+		left: 37px;
+		top: 542px;
+		position: absolute;
+		overflow: visible;
+		width: 311px;
+		height: 237px;
+		line-height: 18px;
+		margin-top: -2px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#Res_conse_conse_volorion_pro_d_ja {
+		left: 33px;
+		top: 1486px;
+		position: absolute;
+		overflow: visible;
+		width: 310px;
+		height: 123px;
+		line-height: 18px;
+		margin-top: -2px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#Rectangle_5_ja {
+		fill: rgba(81,62,154,1);
+	}
+	.Rectangle_5_ja {
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 183px;
+		left: 0px;
+		top: 1904px;
+	}
+	#Rectangle_6_jb {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_6_jb {
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		height: 16px;
+		left: 202px;
+		top: 1938px;
+	}
+	#Email_jf {
+		left: 205px;
+		top: 1939px;
+		position: absolute;
+		overflow: visible;
+		width: 38px;
+		height: 15px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#Any_questions_regarding_produc_jd {
+		left: 33px;
+		top: 1994px;
+		position: absolute;
+		overflow: hidden;
+		width: 146px;
+		height: 56px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(255,255,255,1);
+	}
+	#Rectangle_12_je {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_12_je {
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		height: 16px;
+		left: 202px;
+		top: 1938px;
+	}
+	#Email_jf {
+		left: 205px;
+		top: 1939px;
+		position: absolute;
+		overflow: visible;
+		width: 38px;
+		height: 15px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#rays_8_jg {
+		position: absolute;
+		width: 375px;
+		height: 73px;
+		left: 0px;
+		top: 2087px;
+		overflow: visible;
+	}
+	#Group_11_jh {
+		position: absolute;
+		width: 86px;
+		height: 22.872px;
+		left: 145px;
+		top: 2113px;
+		overflow: visible;
+	}
+	#Vector_ji {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector_ji {
+		overflow: visible;
+		position: absolute;
+		width: 22.872px;
+		height: 22.872px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Vector_jj {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector_jj {
+		overflow: visible;
+		position: absolute;
+		width: 22.872px;
+		height: 22.872px;
+		left: 31.106px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Vector_jk {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector_jk {
+		overflow: visible;
+		position: absolute;
+		width: 22.872px;
+		height: 22.872px;
+		left: 63.128px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#redshirt_jl {
+		position: absolute;
+		width: 111px;
+		height: 185px;
+		left: 293px;
+		top: 940px;
+		overflow: visible;
+	}
+	#purpleshirt_jm {
+		position: absolute;
+		width: 175px;
+		height: 292px;
+		left: 100px;
+		top: 867px;
+		overflow: visible;
+	}
+	#greenshirt_jn {
+		position: absolute;
+		width: 102.773px;
+		height: 185px;
+		left: -21px;
+		top: 940px;
+		overflow: visible;
+	}
+	#Other_Brands_jo {
+		left: 29px;
+		top: 1697px;
+		position: absolute;
+		overflow: visible;
+		width: 171px;
+		height: 26px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(0,0,0,1);
+	}
+	#image_5_jp {
+		position: absolute;
+		width: 147px;
+		height: 149.513px;
+		left: 195px;
+		top: 1728px;
+		overflow: visible;
+	}
+	#image_3_jq {
+		position: absolute;
+		width: 125px;
+		height: 126.316px;
+		left: 34px;
+		top: 1740px;
+		overflow: visible;
+	}
+	#Want_to_learn_more_or_have_que_jr {
+		left: 32px;
+		top: 1933px;
+		position: absolute;
+		overflow: visible;
+		width: 146px;
+		height: 57px;
+		line-height: 16px;
+		margin-top: -1px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_20_js {
+		position: absolute;
+		width: 70px;
+		height: 70px;
+		left: 55px;
+		top: 1197px;
+		overflow: visible;
+		transition: all 0.6s ease-in;
+		--web-animation: fadein 0.6s ease-in;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_5;
+		cursor: pointer;
+	}
+	#Ellipse_2_jt {
+		fill: rgba(171,92,199,1);
+	}
+	.Ellipse_2_jt {
+		width: 70px;
+		height: 70px;
+		position: absolute;
+		overflow: visible;
+		transform: translate(-80px, -1213px) matrix(1,0,0,1,80,1213) rotate(180deg);
+		transform-origin: center;
+	}
+	#Group_13_ju {
+		position: absolute;
+		width: 33px;
+		height: 46px;
+		left: 12px;
+		top: 12px;
+		overflow: visible;
+	}
+	#Polygon_10_jv {
+		fill: rgba(255,255,255,0.451);
+	}
+	.Polygon_10_jv {
+		overflow: visible;
+		position: absolute;
+		width: 46px;
+		height: 33px;
+		transform: translate(-92px, -1225px) matrix(1,0,0,1,85.5,1231.5) rotate(-90deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#Group_20_jw {
+		transform: matrix(1,0,0,1,250,1197) rotate(180deg);
+		transform-origin: center;
+		position: absolute;
+		width: 70px;
+		height: 70px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+		transition: all 0.6s ease-in;
+		--web-animation: fadein 0.6s ease-in;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_7;
+		cursor: pointer;
+	}
+	#Ellipse_2_jx {
+		fill: rgba(171,92,199,1);
+	}
+	.Ellipse_2_jx {
+		width: 70px;
+		height: 70px;
+		position: absolute;
+		overflow: visible;
+		transform: translate(150px, 1283px) matrix(1,0,0,1,80,1213) rotate(180deg);
+		transform-origin: center;
+	}
+	#Group_13_jy {
+		position: absolute;
+		width: 33px;
+		height: 46px;
+		left: 25px;
+		top: 12px;
+		overflow: visible;
+	}
+	#Polygon_10_jz {
+		fill: rgba(255,255,255,0.451);
+	}
+	.Polygon_10_jz {
+		overflow: visible;
+		position: absolute;
+		width: 46px;
+		height: 33px;
+		transform: translate(125px, 1271px) matrix(1,0,0,1,85.5,1231.5) rotate(-90deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#Rectangle_38_j {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_38_j {
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		height: 71px;
+		left: 202px;
+		top: 1966px;
+	}
+	#Message_j {
+		left: 205px;
+		top: 1968px;
+		position: absolute;
+		overflow: visible;
+		width: 55px;
+		height: 15px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#enterbttn_1_j {
+		position: absolute;
+		width: 84px;
+		height: 28px;
+		left: 202px;
+		top: 2048px;
+		overflow: visible;
+	}
+	#Image_2_j {
+		position: absolute;
+		width: 297px;
+		height: 82px;
+		left: 39px;
+		top: 1354px;
+		overflow: visible;
+	}
+}
+@media (min-width: 0px) {
+	.mediaViewInfo {
+		--web-view-name: iPhone 11 Pro / X - 7;
+		--web-view-id: iPhone_11_Pro__X_-_7;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#iPhone_11_Pro__X_-_7 {
+		position: absolute;
+		display: block;
+		width: 375px;
+		height: 2160px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: iPhone 11 Pro / X - 7;
+		--web-view-id: iPhone_11_Pro__X_-_7;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	#rays_1_j {
+		position: absolute;
+		width: 375px;
+		height: 413px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Asset_1_2_j {
+		position: absolute;
+		width: 145px;
+		height: 95px;
+		left: 32px;
+		top: 34px;
+		overflow: visible;
+		transition: all 0s linear;
+		--web-animation: fadein 0s linear;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_15;
+		cursor: pointer;
+	}
+	#Rectangle_31 {
+		fill: rgba(81,62,154,1);
+	}
+	.Rectangle_31 {
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 1530px;
+		left: 0px;
+		top: 150px;
+	}
+	#Group_16 {
+		position: absolute;
+		width: 19px;
+		height: 12px;
+		left: 323px;
+		top: 54px;
+		overflow: visible;
+		transition: all 0s linear;
+		--web-animation: fadein 0s linear;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_9;
+		cursor: pointer;
+	}
+	#Group_6_ka {
+		position: absolute;
+		width: 19px;
+		height: 12px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Line_1_kb {
+		fill: transparent;
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_1_kb {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_2_kc {
+		fill: transparent;
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_2_kc {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 6px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_3_kd {
+		fill: transparent;
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_3_kd {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 12px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Merchandise_ke {
+		left: 33px;
+		top: 169px;
+		position: absolute;
+		overflow: hidden;
+		width: 171px;
+		height: 26px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(250,167,30,1);
+	}
+	#Merchandise_kf {
+		left: 33px;
+		top: 802px;
+		position: absolute;
+		overflow: hidden;
+		width: 171px;
+		height: 26px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(250,167,30,1);
+	}
+	#Figures_kg {
+		left: 33px;
+		top: 1306px;
+		position: absolute;
+		overflow: visible;
+		width: 171px;
+		height: 26px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(250,167,30,1);
+	}
+	#Screen_Shot_2020-06-30_at_241__kh {
+		position: absolute;
+		width: 136px;
+		height: 122px;
+		left: 33px;
+		top: 233px;
+		overflow: visible;
+	}
+	#Screen_Shot_2020-06-30_at_214__ki {
+		position: absolute;
+		width: 147px;
+		height: 122px;
+		left: 195px;
+		top: 233px;
+		overflow: visible;
+	}
+	#Screen_Shot_2020-06-30_at_228__kj {
+		position: absolute;
+		width: 1px;
+		height: 0.901px;
+		left: 33px;
+		top: 424px;
+		overflow: visible;
+	}
+	#Screen_Shot_2020-06-30_at_228__kk {
+		position: absolute;
+		width: 135px;
+		height: 122px;
+		left: 33px;
+		top: 382px;
+		overflow: visible;
+	}
+	#YELLOW-SK-MockUps_2 {
+		position: absolute;
+		width: 74px;
+		height: 122px;
+		left: 200px;
+		top: 382px;
+		overflow: visible;
+	}
+	#Screen_Shot_2020-06-26_at_433__km {
+		position: absolute;
+		width: 68px;
+		height: 122px;
+		left: 274px;
+		top: 382px;
+		overflow: visible;
+	}
+	#Res_conse_conse_volorion_pro_d_kn {
+		left: 37px;
+		top: 542px;
+		position: absolute;
+		overflow: visible;
+		width: 311px;
+		height: 237px;
+		line-height: 18px;
+		margin-top: -2px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#Res_conse_conse_volorion_pro_d_ko {
+		left: 33px;
+		top: 1486px;
+		position: absolute;
+		overflow: visible;
+		width: 310px;
+		height: 123px;
+		line-height: 18px;
+		margin-top: -2px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#Rectangle_32 {
+		fill: rgba(81,62,154,1);
+	}
+	.Rectangle_32 {
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 183px;
+		left: 0px;
+		top: 1904px;
+	}
+	#Rectangle_33 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_33 {
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		height: 16px;
+		left: 202px;
+		top: 1938px;
+	}
+	#Email_kw {
+		left: 205px;
+		top: 1939px;
+		position: absolute;
+		overflow: visible;
+		width: 38px;
+		height: 15px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#Message_ks {
+		left: 205px;
+		top: 1993px;
+		position: absolute;
+		overflow: visible;
+		width: 55px;
+		height: 15px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#Any_questions_regarding_produc_kt {
+		left: 33px;
+		top: 1993px;
+		position: absolute;
+		overflow: hidden;
+		width: 146px;
+		height: 56px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(255,255,255,1);
+	}
+	#Rectangle_36 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_36 {
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		height: 16px;
+		left: 202px;
+		top: 1938px;
+	}
+	#Rectangle_38_kv {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_38_kv {
+		position: absolute;
+		overflow: visible;
+		width: 141px;
+		height: 71px;
+		left: 202px;
+		top: 1966px;
+	}
+	#Email_kw {
+		left: 205px;
+		top: 1939px;
+		position: absolute;
+		overflow: visible;
+		width: 38px;
+		height: 15px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#Message_kx {
+		left: 205px;
+		top: 1968px;
+		position: absolute;
+		overflow: visible;
+		width: 55px;
+		height: 15px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#rays_9 {
+		position: absolute;
+		width: 375px;
+		height: 73px;
+		left: 0px;
+		top: 2087px;
+		overflow: visible;
+	}
+	#Group_17 {
+		position: absolute;
+		width: 86px;
+		height: 22.872px;
+		left: 145px;
+		top: 2113px;
+		overflow: visible;
+	}
+	#Vector_k {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector_k {
+		overflow: visible;
+		position: absolute;
+		width: 22.872px;
+		height: 22.872px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Vector_la {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector_la {
+		overflow: visible;
+		position: absolute;
+		width: 22.872px;
+		height: 22.872px;
+		left: 31.106px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Vector_lb {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector_lb {
+		overflow: visible;
+		position: absolute;
+		width: 22.872px;
+		height: 22.872px;
+		left: 63.128px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#greenshirt_k {
+		position: absolute;
+		width: 175px;
+		height: 292px;
+		left: 100px;
+		top: 867px;
+		overflow: visible;
+	}
+	#purpleshirt_k {
+		position: absolute;
+		width: 102.77px;
+		height: 184.986px;
+		left: 293px;
+		top: 945px;
+		overflow: visible;
+	}
+	#redshirt_k {
+		position: absolute;
+		width: 111px;
+		height: 185px;
+		left: -29px;
+		top: 945px;
+		overflow: visible;
+	}
+	#Other_Brands_k {
+		left: 29px;
+		top: 1697px;
+		position: absolute;
+		overflow: visible;
+		width: 171px;
+		height: 26px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 18px;
+		color: rgba(0,0,0,1);
+	}
+	#image_5_k {
+		position: absolute;
+		width: 147px;
+		height: 149.513px;
+		left: 195px;
+		top: 1728px;
+		overflow: visible;
+	}
+	#image_3_k {
+		position: absolute;
+		width: 125px;
+		height: 126.316px;
+		left: 34px;
+		top: 1740px;
+		overflow: visible;
+	}
+	#Group_20_k {
+		position: absolute;
+		width: 70px;
+		height: 70px;
+		left: 55px;
+		top: 1197px;
+		overflow: visible;
+		transition: all 0.6s ease-in;
+		--web-animation: fadein 0.6s ease-in;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_8;
+		cursor: pointer;
+	}
+	#Ellipse_2_la {
+		fill: rgba(171,92,199,1);
+	}
+	.Ellipse_2_la {
+		width: 70px;
+		height: 70px;
+		position: absolute;
+		overflow: visible;
+		transform: translate(-80px, -1213px) matrix(1,0,0,1,80,1213) rotate(180deg);
+		transform-origin: center;
+	}
+	#Group_13_lb {
+		position: absolute;
+		width: 33px;
+		height: 46px;
+		left: 12px;
+		top: 12px;
+		overflow: visible;
+	}
+	#Polygon_10_lc {
+		fill: rgba(255,255,255,0.451);
+	}
+	.Polygon_10_lc {
+		overflow: visible;
+		position: absolute;
+		width: 46px;
+		height: 33px;
+		transform: translate(-92px, -1225px) matrix(1,0,0,1,85.5,1231.5) rotate(-90deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#Group_20_ld {
+		transform: matrix(1,0,0,1,250,1197) rotate(180deg);
+		transform-origin: center;
+		position: absolute;
+		width: 70px;
+		height: 70px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+		transition: all 0.6s ease-in;
+		--web-animation: fadein 0.6s ease-in;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_5;
+		cursor: pointer;
+	}
+	#Ellipse_2_le {
+		fill: rgba(171,92,199,1);
+	}
+	.Ellipse_2_le {
+		width: 70px;
+		height: 70px;
+		position: absolute;
+		overflow: visible;
+		transform: translate(150px, 1283px) matrix(1,0,0,1,80,1213) rotate(180deg);
+		transform-origin: center;
+	}
+	#Group_13_lf {
+		position: absolute;
+		width: 33px;
+		height: 46px;
+		left: 25px;
+		top: 12px;
+		overflow: visible;
+	}
+	#Polygon_10_lg {
+		fill: rgba(255,255,255,0.451);
+	}
+	.Polygon_10_lg {
+		overflow: visible;
+		position: absolute;
+		width: 46px;
+		height: 33px;
+		transform: translate(125px, 1271px) matrix(1,0,0,1,85.5,1231.5) rotate(-90deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+	}
+	#Want_to_learn_more_or_have_que_lh {
+		left: 32px;
+		top: 1933px;
+		position: absolute;
+		overflow: visible;
+		width: 146px;
+		height: 57px;
+		line-height: 16px;
+		margin-top: -1px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#enterbttn_1_li {
+		position: absolute;
+		width: 84px;
+		height: 28px;
+		left: 202px;
+		top: 2048px;
+		overflow: visible;
+	}
+	#Image_2_lj {
+		position: absolute;
+		width: 297px;
+		height: 82px;
+		left: 39px;
+		top: 1354px;
+		overflow: visible;
+	}
+}
+@media (min-width: 0px) {
+	.mediaViewInfo {
+		--web-view-name: iPhone 11 Pro / X - 9;
+		--web-view-id: iPhone_11_Pro__X_-_9;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#iPhone_11_Pro__X_-_9 {
+		position: absolute;
+		display: block;
+		width: 375px;
+		height: 812px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: iPhone 11 Pro / X - 9;
+		--web-view-id: iPhone_11_Pro__X_-_9;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	#iPhone_11_Pro__X_-_13 {
+		position: absolute;
+		width: 375px;
+		height: 812px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#iPhone_11_Pro__X_-_13_ln {
+		fill: rgba(81,62,154,1);
+	}
+	.iPhone_11_Pro__X_-_13_ln {
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 812px;
+		left: 0px;
+		top: 0px;
+	}
+	#Rectangle_9_lo {
+		fill: rgba(81,62,154,0.431);
+	}
+	.Rectangle_9_lo {
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 812px;
+		left: 0px;
+		top: 0px;
+	}
+	#Group_7_lp {
+		position: absolute;
+		width: 19px;
+		height: 12px;
+		left: 323px;
+		top: 54px;
+		overflow: visible;
+		transition: all 0s linear;
+		--web-animation: fadein 0s linear;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_5;
+		cursor: pointer;
+	}
+	#Line_1_lq {
+		fill: transparent;
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_1_lq {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_2_lr {
+		fill: transparent;
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_2_lr {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 6px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_3_ls {
+		fill: transparent;
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_3_ls {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 12px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Home_lt {
+		left: 96px;
+		top: 84.5px;
+		position: absolute;
+		overflow: hidden;
+		width: 228px;
+		height: 70px;
+		transition: all 0s linear;
+		--web-animation: fadein 0s linear;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_1;
+		cursor: pointer;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	#Contact_Us_lu {
+		left: 96px;
+		top: 209px;
+		position: absolute;
+		overflow: hidden;
+		width: 228px;
+		height: 44px;
+		transition: all 0s linear;
+		--web-animation: fadein 0s linear;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_2;
+		cursor: pointer;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	#Merchandise_lv {
+		left: 96px;
+		top: 474px;
+		position: absolute;
+		overflow: hidden;
+		width: 228px;
+		height: 44px;
+		transition: all 0s linear;
+		--web-animation: fadein 0s linear;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_5;
+		cursor: pointer;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	#Sofaking_Brand_lw {
+		left: 96px;
+		top: 326px;
+		position: absolute;
+		overflow: hidden;
+		width: 228px;
+		height: 94px;
+		transition: all 0s linear;
+		--web-animation: fadein 0s linear;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_4;
+		cursor: pointer;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	#Asset_1_4_lx {
+		position: absolute;
+		width: 38px;
+		height: 28px;
+		left: 85px;
+		top: 446px;
+		overflow: visible;
+	}
+	#Vector_ly {
+		fill: rgba(250,167,30,1);
+	}
+	.Vector_ly {
+		overflow: visible;
+		position: absolute;
+		width: 47.872px;
+		height: 47.872px;
+		left: 76.032px;
+		top: 718px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Vector_lz {
+		fill: rgba(250,167,30,1);
+	}
+	.Vector_lz {
+		overflow: visible;
+		position: absolute;
+		width: 47.872px;
+		height: 47.872px;
+		left: 165.532px;
+		top: 718px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Vector_l {
+		fill: rgba(250,167,30,1);
+	}
+	.Vector_l {
+		overflow: visible;
+		position: absolute;
+		width: 47.872px;
+		height: 47.872px;
+		left: 251.096px;
+		top: 718px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+}
+@media (min-width: 0px) {
+	.mediaViewInfo {
+		--web-view-name: iPhone 11 Pro / X - 10;
+		--web-view-id: iPhone_11_Pro__X_-_10;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#iPhone_11_Pro__X_-_10 {
+		position: absolute;
+		display: block;
+		width: 375px;
+		height: 812px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: iPhone 11 Pro / X - 10;
+		--web-view-id: iPhone_11_Pro__X_-_10;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	#iPhone_11_Pro__X_-_13_l {
+		position: absolute;
+		width: 375px;
+		height: 812px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#iPhone_11_Pro__X_-_13_ma {
+		fill: rgba(81,62,154,1);
+	}
+	.iPhone_11_Pro__X_-_13_ma {
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 812px;
+		left: 0px;
+		top: 0px;
+	}
+	#Rectangle_9_l {
+		fill: rgba(81,62,154,0.431);
+	}
+	.Rectangle_9_l {
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 812px;
+		left: 0px;
+		top: 0px;
+	}
+	#Group_7_l {
+		position: absolute;
+		width: 19px;
+		height: 12px;
+		left: 323px;
+		top: 54px;
+		overflow: visible;
+		transition: all 0s linear;
+		--web-animation: fadein 0s linear;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_4;
+		cursor: pointer;
+	}
+	#Line_1_l {
+		fill: transparent;
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_1_l {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_2_l {
+		fill: transparent;
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_2_l {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 6px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_3_l {
+		fill: transparent;
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_3_l {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 12px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Home_ma {
+		left: 96px;
+		top: 84.5px;
+		position: absolute;
+		overflow: hidden;
+		width: 228px;
+		height: 70px;
+		transition: all 0s linear;
+		--web-animation: fadein 0s linear;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_1;
+		cursor: pointer;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	#Contact_Us_mb {
+		left: 96px;
+		top: 209px;
+		position: absolute;
+		overflow: hidden;
+		width: 228px;
+		height: 44px;
+		transition: all 0s linear;
+		--web-animation: fadein 0s linear;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_2;
+		cursor: pointer;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	#Merchandise_mc {
+		left: 96px;
+		top: 474px;
+		position: absolute;
+		overflow: hidden;
+		width: 228px;
+		height: 44px;
+		transition: all 0s linear;
+		--web-animation: fadein 0s linear;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_5;
+		cursor: pointer;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	#Sofaking_Brand_md {
+		left: 96px;
+		top: 326px;
+		position: absolute;
+		overflow: hidden;
+		width: 228px;
+		height: 94px;
+		transition: all 0s linear;
+		--web-animation: fadein 0s linear;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_4;
+		cursor: pointer;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	#Asset_1_4_me {
+		position: absolute;
+		width: 38px;
+		height: 28px;
+		left: 85px;
+		top: 296px;
+		overflow: visible;
+	}
+	#Vector_mf {
+		fill: rgba(250,167,30,1);
+	}
+	.Vector_mf {
+		overflow: visible;
+		position: absolute;
+		width: 47.872px;
+		height: 47.872px;
+		left: 76.032px;
+		top: 718px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Vector_mg {
+		fill: rgba(250,167,30,1);
+	}
+	.Vector_mg {
+		overflow: visible;
+		position: absolute;
+		width: 47.872px;
+		height: 47.872px;
+		left: 165.532px;
+		top: 718px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Vector_mh {
+		fill: rgba(250,167,30,1);
+	}
+	.Vector_mh {
+		overflow: visible;
+		position: absolute;
+		width: 47.872px;
+		height: 47.872px;
+		left: 251.096px;
+		top: 718px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+}
+@media (min-width: 0px) {
+	.mediaViewInfo {
+		--web-view-name: iPhone 11 Pro / X - 11;
+		--web-view-id: iPhone_11_Pro__X_-_11;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#iPhone_11_Pro__X_-_11 {
+		position: absolute;
+		display: block;
+		width: 375px;
+		height: 812px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: iPhone 11 Pro / X - 11;
+		--web-view-id: iPhone_11_Pro__X_-_11;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	#iPhone_11_Pro__X_-_13_mk {
+		position: absolute;
+		width: 375px;
+		height: 812px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#iPhone_11_Pro__X_-_13_ml {
+		fill: rgba(81,62,154,1);
+	}
+	.iPhone_11_Pro__X_-_13_ml {
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 812px;
+		left: 0px;
+		top: 0px;
+	}
+	#Rectangle_9_mm {
+		fill: rgba(81,62,154,0.431);
+	}
+	.Rectangle_9_mm {
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 812px;
+		left: 0px;
+		top: 0px;
+	}
+	#Group_7_mn {
+		position: absolute;
+		width: 19px;
+		height: 12px;
+		left: 323px;
+		top: 54px;
+		overflow: visible;
+		transition: all 0s linear;
+		--web-animation: fadein 0s linear;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_2;
+		cursor: pointer;
+	}
+	#Line_1_mo {
+		fill: transparent;
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_1_mo {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_2_mp {
+		fill: transparent;
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_2_mp {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 6px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_3_mq {
+		fill: transparent;
+		stroke: rgba(255,255,255,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_3_mq {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 12px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Home_mr {
+		left: 96px;
+		top: 84.5px;
+		position: absolute;
+		overflow: hidden;
+		width: 228px;
+		height: 70px;
+		transition: all 0s linear;
+		--web-animation: fadein 0s linear;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_1;
+		cursor: pointer;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	#Contact_Us_ms {
+		left: 96px;
+		top: 209px;
+		position: absolute;
+		overflow: hidden;
+		width: 228px;
+		height: 44px;
+		transition: all 0s linear;
+		--web-animation: fadein 0s linear;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_2;
+		cursor: pointer;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	#Merchandise_mt {
+		left: 96px;
+		top: 474px;
+		position: absolute;
+		overflow: hidden;
+		width: 228px;
+		height: 44px;
+		transition: all 0s linear;
+		--web-animation: fadein 0s linear;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_5;
+		cursor: pointer;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	#Sofaking_Brand_mu {
+		left: 96px;
+		top: 326px;
+		position: absolute;
+		overflow: hidden;
+		width: 228px;
+		height: 94px;
+		transition: all 0s linear;
+		--web-animation: fadein 0s linear;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_4;
+		cursor: pointer;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	#Asset_1_4_mv {
+		position: absolute;
+		width: 38px;
+		height: 28px;
+		left: 85px;
+		top: 180px;
+		overflow: visible;
+	}
+	#Vector_mw {
+		fill: rgba(250,167,30,1);
+	}
+	.Vector_mw {
+		overflow: visible;
+		position: absolute;
+		width: 47.872px;
+		height: 47.872px;
+		left: 76.032px;
+		top: 718px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Vector_mx {
+		fill: rgba(250,167,30,1);
+	}
+	.Vector_mx {
+		overflow: visible;
+		position: absolute;
+		width: 47.872px;
+		height: 47.872px;
+		left: 165.532px;
+		top: 718px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Vector_my {
+		fill: rgba(250,167,30,1);
+	}
+	.Vector_my {
+		overflow: visible;
+		position: absolute;
+		width: 47.872px;
+		height: 47.872px;
+		left: 251.096px;
+		top: 718px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+}
+@media (min-width: 0px) {
+	.mediaViewInfo {
+		--web-view-name: iPhone 11 Pro / X - 14;
+		--web-view-id: iPhone_11_Pro__X_-_14;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#iPhone_11_Pro__X_-_14 {
+		position: absolute;
+		display: block;
+		width: 375px;
+		height: 1400px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: iPhone 11 Pro / X - 14;
+		--web-view-id: iPhone_11_Pro__X_-_14;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
+	#rays_1_m {
+		position: absolute;
+		width: 375px;
+		height: 413px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Asset_1_2_m {
+		position: absolute;
+		width: 145px;
+		height: 95px;
+		left: 32px;
+		top: 34px;
+		overflow: visible;
+		--web-animation: fadein 0.2s ease-in-out;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_15;
+		cursor: pointer;
+	}
+	#Rectangle_36_m {
+		fill: rgba(81,62,154,1);
+	}
+	.Rectangle_36_m {
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 1250px;
+		left: 0px;
+		top: 150px;
+	}
+	#Group_11_m {
+		position: absolute;
+		width: 19px;
+		height: 12px;
+		left: 323px;
+		top: 54px;
+		overflow: visible;
+		--web-animation: fadein 0s ease-out;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_10;
+		cursor: pointer;
+	}
+	#Group_1_m {
+		position: absolute;
+		width: 19px;
+		height: 12px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Line_1_m {
+		fill: transparent;
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_1_m {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_2_m {
+		fill: transparent;
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_2_m {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 6px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_3_m {
+		fill: transparent;
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Line_3_m {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 2px;
+		left: 0px;
+		top: 12px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#sofaking_mellow_nugz_m {
+		position: absolute;
+		width: 250px;
+		height: 267px;
+		left: 63px;
+		top: 705px;
+		overflow: visible;
+	}
+	#Get_Mellow {
+		left: 33px;
+		top: 534px;
+		position: absolute;
+		overflow: visible;
+		width: 237px;
+		height: 25px;
+		text-align: left;
+		font-family: Gotham;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(250,167,30,1);
+	}
+	#Dosage__Pricing {
+		left: 33px;
+		top: 1016px;
+		position: absolute;
+		overflow: visible;
+		width: 237px;
+		height: 25px;
+		text-align: left;
+		font-family: Gotham;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(250,167,30,1);
+	}
+	#Ingredients {
+		left: 33px;
+		top: 1185px;
+		position: absolute;
+		overflow: visible;
+		width: 237px;
+		height: 25px;
+		text-align: left;
+		font-family: Gotham;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(250,167,30,1);
+	}
+	#Res_conse_conse_volorion_pro_d_nd {
+		left: 33px;
+		top: 547px;
+		position: absolute;
+		overflow: visible;
+		width: 311px;
+		height: 123px;
+		line-height: 18px;
+		margin-top: -2px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#Res_conse_conse_volorion_pro_d_ne {
+		left: 33px;
+		top: 1198px;
+		position: absolute;
+		overflow: visible;
+		width: 311px;
+		height: 123px;
+		line-height: 18px;
+		margin-top: -2px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#MellowNugz__leaf_2 {
+		position: absolute;
+		width: 282px;
+		height: 193px;
+		left: 47px;
+		top: 297px;
+		overflow: visible;
+	}
+	#mellownugz_ng {
+		position: absolute;
+		width: 276px;
+		height: 136px;
+		left: 50px;
+		top: 192px;
+		overflow: visible;
+	}
+	#n_00mg__14_250mg__28_500mg__48 {
+		left: 63px;
+		top: 1035px;
+		position: absolute;
+		overflow: visible;
+		width: 237px;
+		height: 114px;
+		line-height: 36px;
+		margin-top: -9px;
+		text-align: left;
+		font-family: Mulish;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 18px;
+		color: rgba(255,255,255,1);
+	}
+	#Polygon_11 {
+		fill: rgba(196,196,196,1);
+	}
+	.Polygon_11 {
+		overflow: visible;
+		position: absolute;
+		width: 32px;
+		height: 32px;
+		transform: matrix(1,0,0,1,34,315) rotate(270deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+		--web-animation: fadein 0s ease-out;
+		--web-action-type: view;
+		--web-action-target: iPhone_11_Pro__X_-_4;
+		cursor: pointer;
+	}
+	#rays_6_nj {
+		position: absolute;
+		width: 375px;
+		height: 73px;
+		left: 0px;
+		top: 1327px;
+		overflow: visible;
+	}
+	#Group_9_nk {
+		position: absolute;
+		width: 86.229px;
+		height: 22.872px;
+		left: 144.387px;
+		top: 1353px;
+		overflow: visible;
+	}
+	#Vector_nl {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector_nl {
+		overflow: visible;
+		position: absolute;
+		width: 22.933px;
+		height: 22.872px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Vector_nm {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector_nm {
+		overflow: visible;
+		position: absolute;
+		width: 22.933px;
+		height: 22.872px;
+		left: 31.189px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Vector_nn {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector_nn {
+		overflow: visible;
+		position: absolute;
+		width: 22.933px;
+		height: 22.872px;
+		left: 63.296px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#rays_7_no {
+		position: absolute;
+		width: 375px;
+		height: 73px;
+		left: 0px;
+		top: 1327px;
+		overflow: visible;
+	}
+	#Group_10_np {
+		position: absolute;
+		width: 86.229px;
+		height: 22.872px;
+		left: 144.387px;
+		top: 1353px;
+		overflow: visible;
+	}
+	#Vector_nq {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector_nq {
+		overflow: visible;
+		position: absolute;
+		width: 22.933px;
+		height: 22.872px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Vector_nr {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector_nr {
+		overflow: visible;
+		position: absolute;
+		width: 22.933px;
+		height: 22.872px;
+		left: 31.189px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Vector_ns {
+		fill: rgba(0,0,0,1);
+	}
+	.Vector_ns {
+		overflow: visible;
+		position: absolute;
+		width: 22.933px;
+		height: 22.872px;
+		left: 63.296px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+}
